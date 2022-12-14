@@ -5,7 +5,7 @@
 
 # Software Used
 
-Recommended using [Visual Studio 2022](https://visualstudio.microsoft.com/) or latest
+Recommended using [Jet Brains](https://www.jetbrains.com/) or latest
 
 # Free E-Book
 
